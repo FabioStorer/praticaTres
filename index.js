@@ -1,0 +1,1 @@
+console.log('Pratica 3. Ordenação de elementos de um array em ordem crescente, deletando os duplicados.')
